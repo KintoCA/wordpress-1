@@ -1,0 +1,17 @@
+/*
+Theme Name: My Bootstrap Theme
+Theme URI: http://example.com/my-bootstrap-theme
+Author: Your Name
+Author URI: http://example.com
+Description: A WordPress theme using Bootstrap CSS
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: bootstrap, responsive
+Text Domain: my-bootstrap-theme
+*/
+
+body {
+    padding-top: 56px; /* Space for fixed navbar */
+}
+
